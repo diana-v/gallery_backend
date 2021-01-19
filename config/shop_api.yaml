@@ -1,0 +1,6 @@
+framework:
+    messenger:
+        buses:
+            sylius_shop_api_plugin.command_bus:
+                middleware:
+                    - doctrine_transaction

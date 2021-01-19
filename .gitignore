@@ -4,6 +4,11 @@
 /public/media
 !/public/media/image/.gitkeep
 
+.idea/gallery_backend.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/php.xml
+.idea/workspace.xml
+
 /node_modules
 
 /etc/build/*

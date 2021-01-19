@@ -9,3 +9,4 @@ fos_rest:
         rules:
             - { path: '^/api/.*', priorities: ['json', 'xml'], fallback_format: json, prefer_extension: true }
             - { path: '^/', stop: true }
+            - { path: '^/shop-api', priorities: ['json'], fallback_format: json, prefer_extension: true }

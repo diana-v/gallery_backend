@@ -628,6 +628,9 @@
     "sylius/resource-bundle": {
         "version": "v1.4.4"
     },
+    "sylius/shop-api-plugin": {
+        "version": "v1.2.0"
+    },
     "sylius/sylius": {
         "version": "v1.3.6"
     },
