@@ -3,6 +3,8 @@
     "type": "project",
     "license": "proprietary",
     "homepage": "https://sylius.com",
+    "name": "shop/gallery",
+    "description": "diannxart shop to showcase and sell artwork",
     "authors": [
         {
             "name": "Paweł Jędrzejewski"
