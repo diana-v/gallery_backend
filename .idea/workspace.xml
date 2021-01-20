@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf25561-72c2-4dfc-8392-b0c8615e6e96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gallery_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gallery_backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +343,7 @@
       <workItem from="1610956159162" duration="12984000" />
       <workItem from="1611044559239" duration="2423000" />
       <workItem from="1611047058293" duration="5959000" />
-      <workItem from="1611128404737" duration="1902000" />
+      <workItem from="1611128404737" duration="3986000" />
     </task>
     <servers />
   </component>
